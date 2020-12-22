@@ -1,3 +1,5 @@
+@echo off
+
 D:
 cd \hogari\InProgressScripts
 git checkout main

@@ -1,7 +1,7 @@
 @echo off
 
 D:
-cd \hogari\InProgressScripts
+cd \Maya\scripts\hogari\InProgressScripts
 git checkout main
 git pull
 git checkout tsuyuzaki
